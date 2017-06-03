@@ -1,0 +1,6 @@
+.evn
+.idea
+.laure
+*.sqlite3
+*pyc
+__pycache__
